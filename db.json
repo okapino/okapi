@@ -1,0 +1,214 @@
+{
+  "songs": [
+    {
+      "id": "5b8e47deb3984c68ed8192e3",
+      "title": "Easter Oratorio (in Am)",
+      "artist": "Johann Sebastian Bach",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/586a75fa-99df-4ce0-af71-55f6a474c404.jpg",
+      "level": 6,
+      "search": "johann sebastian bach easter oratorio (in am)"
+    },
+    {
+      "id": "5b8f736fb3984c13548374af",
+      "title": "Fysyoni (in Bm)",
+      "artist": "Traditional",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/2524751a-c107-40e5-8de8-08e68b9d8ca8.jpg",
+      "level": 10,
+      "search": "traditional fysyoni (in bm)"
+    },
+    {
+      "id": "5b8e471cb3984c68ed81926d",
+      "title": "Gettin' Along",
+      "artist": "The Yousicians",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/90c50bda-6935-49df-b5db-bbb493af4fed.jpg",
+      "level": 12,
+      "search": "the yousicians gettin' along"
+    },
+    {
+      "id": "5b8e447eb3984c68ed8190bf",
+      "title": "Fysouni (in Bm)",
+      "artist": "Traditional",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/4c08e106-c82e-4c61-ae7c-18068023297c.jpg",
+      "level": 3,
+      "search": "traditional fysouni (in bm)"
+    },
+    {
+      "id": "5b8e47a5b3984c68ed8192c3",
+      "title": "Fight For It All",
+      "artist": "The Yousicians",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/465b9efc-34e2-4352-bafc-03a3cf405100.jpg",
+      "level": 10,
+      "search": "the yousicians fight for it all"
+    },
+    {
+      "id": "5b8e4819b3984c68ed819303",
+      "title": "Red River Valley",
+      "artist": "Traditional",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/7c20bd2f-8c7b-4e28-baec-85dd6ea7fe15.jpg",
+      "level": 4,
+      "search": "traditional red river valley"
+    },
+    {
+      "id": "5bc86518e8dec3682785fe1f",
+      "title": "No More Mr. Nice Guy",
+      "artist": "Alice Cooper",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/artists/image/c6278fbd-1980-4405-9fba-002d5874df05.jpg",
+      "level": 11,
+      "search": "alice cooper no more mr. nice guy"
+    },
+    {
+      "id": "5b8e4688b3984c68ed81920d",
+      "title": "Cowboy's Lament",
+      "artist": "The Yousicians",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/17088882-2897-48f7-a4cd-96b8f90c224c.jpg",
+      "level": 3,
+      "search": "the yousicians cowboy's lament"
+    },
+    {
+      "id": "5b8e45e9b3984c68ed8191a9",
+      "title": "Try This At Home",
+      "artist": "The Yousicians",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/6a2279da-bb84-4b53-aebc-3f250a00b6f8.jpg",
+      "level": 8,
+      "search": "the yousicians try this at home"
+    },
+    {
+      "id": "5b432177e8dec348bf66715f",
+      "title": "We Didn't Start The Fire",
+      "artist": "Billy Joel",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/artists/image/af4025c7-4836-46eb-be15-66511ffcbe5d.jpg",
+      "level": 2,
+      "search": "billy joel we didn't start the fire"
+    },
+    {
+      "id": "5b8fb11ae8dec3365050e8f7",
+      "title": "Free Bird",
+      "artist": "Lynyrd Skynyrd",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/artists/image/b2e90e48-ab35-4ad7-aac8-abaa32e01920.jpg",
+      "level": 7,
+      "search": "lynyrd skynyrd free bird"
+    },
+    {
+      "id": "5b8e4706b3984c68ed81925d",
+      "title": "Testarossa",
+      "artist": "The Yousicians",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/7c0dfbb5-b76f-472c-9565-8e08252ff0ba.jpg",
+      "level": 8,
+      "search": "the yousicians testarossa"
+    },
+    {
+      "id": "5b8e4734b3984c68ed81927d",
+      "title": "With You",
+      "artist": "The Yousicians",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/afd43061-e62c-4445-a1a7-3ccba868393e.jpg",
+      "level": 12,
+      "search": "the yousicians with you"
+    },
+    {
+      "id": "5b8e465ab3984c68ed8191ed",
+      "title": "IILWY",
+      "artist": "Rob Scallon",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/artists/image/f96be747-12cc-412f-a921-2c1dacacaede.jpg",
+      "level": 10,
+      "search": "rob scallon iilwy"
+    },
+    {
+      "id": "5b8e44a7b3984c68ed8190d5",
+      "title": "Watch This Space",
+      "artist": "The Yousicians",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/1b4ea0bd-90b1-4630-a42f-ce20c966158c.jpg",
+      "level": 8,
+      "search": "the yousicians watch this space"
+    },
+    {
+      "id": "5c0f6cfce8dec348a88f6324",
+      "title": "O Little Town Of Bethlehem",
+      "artist": "Lewis Redner",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/b4c77e60-44e7-4152-8176-0cb18c20fa03.png",
+      "level": 4,
+      "search": "lewis redner o little town of bethlehem"
+    },
+    {
+      "id": "5b8e45bfb3984c68ed819191",
+      "title": "Supercharged",
+      "artist": "The Yousicians",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/59d7defd-1751-47c2-8143-9a60d13b9102.jpg",
+      "level": 6,
+      "search": "the yousicians supercharged"
+    },
+    {
+      "id": "5c3edc7ee8dec36be7a0fce1",
+      "title": "Cello Suite No. 1 Part 1 (in C, short)",
+      "artist": "Johann Sebastian Bach",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/20dd9032-cf06-438f-9ab6-9049e48807eb.jpg",
+      "level": 5,
+      "search": "johann sebastian bach cello suite no. 1 part 1 (in c, short)"
+    },
+    {
+      "id": "5ba584e4e8dec304cfedf57c",
+      "title": "I Should Spend More Time With You",
+      "artist": "Rob Scallon",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/artists/image/f96be747-12cc-412f-a921-2c1dacacaede.jpg",
+      "level": 7,
+      "search": "rob scallon i should spend more time with you"
+    },
+    {
+      "id": "5bfea7b5e8dec331251ee183",
+      "title": "Whiskey In The Jar",
+      "artist": "Thin Lizzy",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/artists/image/5ab65403-4b1a-4d24-9e8d-82016cf7fc75.jpg",
+      "level": 13,
+      "search": "thin lizzy whiskey in the jar"
+    },
+    {
+      "id": "5bff82fee8dec3312522774e",
+      "title": "Vulkanik",
+      "artist": "The Yousicians",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/e9770c2e-4b00-4a6b-b652-15047d0f6de1.png",
+      "level": 4,
+      "search": "the yousicians vulkanik"
+    },
+    {
+      "id": "5bd2fce3e8dec3255a00d1c7",
+      "title": "Sweet Home Alabama (tutorial)",
+      "artist": "Lynyrd Skynyrd",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/artists/image/b2e90e48-ab35-4ad7-aac8-abaa32e01920.jpg",
+      "level": 1,
+      "search": "lynyrd skynyrd sweet home alabama (tutorial)"
+    },
+    {
+      "id": "5bbda380e8dec362ef95a29c",
+      "title": "L'Amour Oriental",
+      "artist": "Traditional",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/074df417-9ea9-4510-a205-5d42c212d850.jpg",
+      "level": 15,
+      "search": "traditional l'amour oriental"
+    },
+    {
+      "id": "5b8e47f6b3984c68ed8192f1",
+      "title": "Valse Lente",
+      "artist": "Oskar Merikanto",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/7f322bb4-bc2a-420d-b037-97916561bf05.jpg",
+      "level": 11,
+      "search": "oskar merikanto valse lente"
+    },
+    {
+      "id": "5b8e453eb3984c68ed81913d",
+      "title": "Tannhauser",
+      "artist": "Richard Wagner",
+      "images": "https://d3mzlbmn9ukddk.cloudfront.net/songs/image/9c7ad501-a79c-4fef-94e5-e1ce6e70e688.jpg",
+      "level": 6,
+      "search": "richard wagner tannhauser"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "5d10ceca6ea3f34582f71e7a",
+      "songId": "5b8e47deb3984c68ed8192e3"
+    },
+    {
+      "id": "5d10cf0e4bdf45bc20590d3a",
+      "songId": "5b8f736fb3984c13548374af"
+    }
+  ]
+}
